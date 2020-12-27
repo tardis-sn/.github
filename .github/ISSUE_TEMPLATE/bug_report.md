@@ -20,6 +20,7 @@ assignees: ''
  - OS:
     - [ ] GNU/Linux
     - [ ] macOS
+
  - Environment (`conda list`):
 
 **Additional context**
