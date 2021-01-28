@@ -24,5 +24,5 @@
 <!--- Put an `x` in all the boxes that apply -->
 - [ ] My change requires a change to the documentation.
     - [ ] I have updated the documentation accordingly.
-        - [ ] I have built the documentation on my fork following [the instructions](https://tardis-sn.github.io/tardis/development/documentation_preview.html).
+    - [ ] (optional) I have built the documentation on my fork following [the instructions](https://tardis-sn.github.io/tardis/development/documentation_preview.html).
 - [ ] I have assigned and requested two reviewers for this pull request.
