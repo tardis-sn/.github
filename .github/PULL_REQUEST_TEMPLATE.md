@@ -11,7 +11,7 @@
 - [ ] Other. <!--- please describe how you tested your changes, `pytest` flags used, etc. -->
 
 **Examples**
-<!-- If appropiate, link notebooks, screenshots and other demo stuff -->
+<!-- If appropriate, link notebooks, screenshots and other demo stuff -->
 
 **Type of change**
 <!--- Put an `x` in all the boxes that apply -->
