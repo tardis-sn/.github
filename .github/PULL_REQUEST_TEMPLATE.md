@@ -7,22 +7,25 @@
 <!--- Why is this change required? What problem does it solve? Link issues here -->
 
 **How has this been tested?**
-- [ ] Testing pipeline.
-- [ ] Other. <!--- please describe how you tested your changes, `pytest` flags used, etc. -->
+<!--- please describe how you tested your changes, `pytest` flags used, etc. -->
+
+- [ ] Testing pipeline
+- [ ] Other
 
 **Examples**
 <!-- If appropriate, link notebooks, screenshots and other demo stuff -->
 
 **Type of change**
 <!--- Put an `x` in all the boxes that apply -->
-- [ ] Bug fix. <!-- non-breaking change which fixes an issue -->
-- [ ] New feature. <!-- non-breaking change which adds functionality -->
-- [ ] Breaking change. <!-- fix or feature that would cause existing functionality to not work as expected -->
-- [ ] None of the above. <!-- please describe -->
+
+- [ ] Bug fix <!-- Non-breaking change which fixes an issue -->
+- [ ] New feature <!-- Non-breaking change which adds functionality -->
+- [ ] Breaking change <!-- Fix or feature that would cause existing functionality to not work as expected -->
+- [ ] None of the above <!-- Please describe -->
 
 **Checklist**
 <!--- Put an `x` in all the boxes that apply -->
-- [ ] My change requires a change to the documentation.
-    - [ ] I have updated the documentation accordingly.
-    - [ ] (optional) I have built the documentation on my fork following [the instructions](https://tardis-sn.github.io/tardis/contributing/development/documentation_guidelines.html#sharing-the-built-documentation-in-your-pr-documentation-preview).
-- [ ] I have assigned and requested two reviewers for this pull request.
+
+- [ ] I have updated the documentation according to my changes
+- [ ] I have built the documentation by applying the `build_docs` label to this pull request (if you don't have enough privileges a reviewer will do it for you)
+- [ ] I have requested two reviewers for this pull request
