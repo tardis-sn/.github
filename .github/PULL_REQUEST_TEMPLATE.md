@@ -1,31 +1,30 @@
-<!--- Provide a general summary of your changes in the title above -->
+### :pencil: Description
 
-**Description**
-<!--- Describe your changes in detail -->
+**Type:** :beetle: `bugfix` | :rocket: `feature` | :biohazard: `breaking change` | :vertical_traffic_light: `testing` | :memo: `documentation` | :roller_coaster: `infrastructure`
 
-**Motivation and context**
-<!--- Why is this change required? What problem does it solve? Link issues here -->
+Write a complete description of your changes, including the necessary context or any piece of information required to understand your work.
 
-**How has this been tested?**
-<!--- please describe how you tested your changes, `pytest` flags used, etc. -->
+Also, link issues affected by this pull request by using the keywords: `close`, `closes`, `closed`, `fix`, `fixes`, `fixed`, `resolve`, `resolves` or `resolved`. 
+
+
+### :pushpin: Resources
+
+Examples, notebooks, and links to useful references.
+
+
+### :vertical_traffic_light: Testing
+
+How did you test these changes?
 
 - [ ] Testing pipeline
-- [ ] Other
+- [ ] Other method (describe)
+- [ ] My changes can't be tested (explain why)
 
-**Examples**
-<!-- If appropriate, link notebooks, screenshots and other demo stuff -->
 
-**Type of change**
-<!--- Put an `x` in all the boxes that apply -->
+### :ballot_box_with_check: Checklist
 
-- [ ] Bug fix <!-- Non-breaking change which fixes an issue -->
-- [ ] New feature <!-- Non-breaking change which adds functionality -->
-- [ ] Breaking change <!-- Fix or feature that would cause existing functionality to not work as expected -->
-- [ ] None of the above <!-- Please describe -->
+- [ ] I requested two reviewers for this pull request
+- [ ] I updated the documentation according to my changes
+- [ ] I built the documentation by applying the `build_docs` label
 
-**Checklist**
-<!--- Put an `x` in all the boxes that apply -->
-
-- [ ] I have updated the documentation according to my changes
-- [ ] I have built the documentation by applying the `build_docs` label to this pull request (if you don't have enough privileges a reviewer will do it for you)
-- [ ] I have requested two reviewers for this pull request
+> **Note:** If you are not allowed to perform any of these actions, ping (@) a contributor.
