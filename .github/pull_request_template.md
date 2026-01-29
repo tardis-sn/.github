@@ -1,7 +1,3 @@
-<!--
-  This is the default PR template.
--->
-
 ### :pencil: Description
 
 **Type:** :beetle: `bugfix` | :rocket: `feature` | :biohazard: `breaking change` | :vertical_traffic_light: `testing` | :memo: `documentation` | :roller_coaster: `infrastructure`
