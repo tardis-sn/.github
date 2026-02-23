@@ -21,6 +21,14 @@ How did you test these changes?
 - [ ] My changes can't be tested (explain why)
 
 
+### :robot: AI usage
+
+- [ ] I have not used AI in this pull request.
+- [ ] I have used AI in this pull request and have described how below.
+
+(If you used AI, please describe how you used it here.)
+
+
 ### :ballot_box_with_check: Checklist
 
 - [ ] I requested two reviewers for this pull request
